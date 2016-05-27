@@ -4,7 +4,7 @@
   <title><![CDATA[Category: App | My Octopress Blog]]></title>
   <link href="http://majikaisteve123456.github.io/blog/categories/app/atom.xml" rel="self"/>
   <link href="http://majikaisteve123456.github.io/"/>
-  <updated>2016-05-27T16:50:09+08:00</updated>
+  <updated>2016-05-27T17:03:42+08:00</updated>
   <id>http://majikaisteve123456.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[少数派]]></title>
+    <link href="http://majikaisteve123456.github.io/blog/2016/05/26/mjkblog%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <updated>2016-05-26T12:54:48+08:00</updated>
+    <id>http://majikaisteve123456.github.io/blog/2016/05/26/mjkblog - 副本</id>
+    <content type="html"><![CDATA[<h1>随时收app的利器</h1>
+
+<h2>lookmark</h2>
+
+<blockquote><p>引用</p></blockquote>
+
+<p>少数派之前就推荐过这款叫 Lookmark 的应用，它把 App Store 愿望清单没有做的事情给做了，除了能更方便地收藏暂存 App，还能追踪 App 的价格变动。</p>
+
+<p>无论是收费应用还是免费应用，你都可以添加到 Lookmark，这是它的基础功能。在 2.0 新版中，除了支持 App Store，你还可以将 iTunes Store、Podcasts、Music、iBooks 的音乐、播客、书本等项目加入其中。</p>
+
+<p>对于收费项目，新版还可以设置价格变化追踪，方便了我们盯紧心仪的高价 App，在降价促销时第一时间收下。不过，价格追踪功能需要内购订阅，价格为 30 元 / 半年。</p>
+
+<p>Lookmark 最让我喜欢的地方在于，它可以方便地通过 Lookmark 在分享菜单中的扩展添加 App。也就是说，这样的操作可以在任何支持 iOS 系统分享菜单的地方进行。不论你是在 Safari 看少数派文章喜欢上一个新 App，还是在刷微博时看到少数派又推荐了某个 App 限免促销了，你都可以通过呼出分享菜单立即把它保存下来。
+<img src="http://cdn.sspai.com/attachment/thumbnail/2016/05/27/68539f066673ee02f03f5b209513485a5090f_mw_800_wm_1_wmp_3.jpg" alt="image" />
+在电脑上，你也可以通过 Lookmark 的浏览器扩展添加 App（支持 Safari 和 Chrome），Lookmark 的链接探测功能出奇的好用。在任意存在 App 链接的页面点击 Lookmark 扩展，你就能自动探测到相应的 App，像下图一样，你可以将多个应用批量添加。当然，在扩展中保存的记录和 iOS 端是同步的。
+<img src="http://sspai.com/attachment/origin/2016/05/27/330002.png" alt="image" />
+上回我们就有说，Lookmark 是「你想要很久的 App 愿望清单」。而这一次的新版本，无疑让 Lookmark 变得更加适合 App 玩家。</p>
+
+<p>当然，需要付费订阅的价格变动追踪功能，会是一个门槛。这个功能本身可以带给你的是：你不需要花时间主动去寻找促销消息，也不需要时刻关注着什么，App 一降价，Lookmark 给你一个通知，你就可以去买下来。一定程度上来说，这是省时省力的服务。</p>
+
+<p>如果你不想花钱订阅这个价格追踪功能，也有其他的免费替代方法，比如使用 Appshopper 这样的服务。相比 Lookmark，Appshopper 的优势是除了能免费收藏 App、获取 App 价格变动，还可以发现一些新上架或新促销的 App。但若使用 Appshopper，当看到一个 App 时，需要重新在 Appshopper 里按名字搜索后进行操作，这比起能够自由在各处收藏 App 的 Lookmark 来说，步骤上会更繁琐。加之 Appshopper 客户端由于苹果政策限制早已停更，若要在移动端使用只能通过网页，体验上也不如 Lookmark 要好。</p>
+
+<p>你可以在 App Store 免费下载 Lookmark，或点此下载 Chrome 和 Safari 的浏览器扩展</p>
+
+<p>阅读原文</p>
+
+<p><a href="http://sspai.com/34389">少数派</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[最美应用]]></title>
